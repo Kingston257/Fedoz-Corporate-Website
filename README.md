@@ -10,7 +10,7 @@
 
 This project involved the design and development of the corporate website for **Fedoz Nigeria Limited**, an engineering and energy services company serving the oil and gas industry.
 
-The website was designed to strengthen Fedoz's digital presence, communicate its technical capabilities, showcase its projects and services, and provide clients, partners and other stakeholders with a clear and professional view of the organisation.
+The website was designed to strengthen Fedoz's digital presence, communicate its technical capabilities, showcase its projects and services, and provide clients, partners, and other stakeholders with a clear and professional view of the organisation.
 
 The project focused on combining **corporate identity, user experience, responsive design and clear information architecture** to create a website suited to a B2B engineering audience.
 
@@ -76,27 +76,25 @@ The interface uses a clear content hierarchy, structured sections, a visual proj
 
 ## Technology Stack
 
-> Update this section to reflect the exact tools and technologies used in the final build.
+The website was designed and developed using a combination of no-code, visual design, content research and custom styling tools.
 
 **Website / CMS**
 
 * Hostinger Website Builder
 
-**Design**
+**Design & Visual Assets**
 
 * UI/UX Design
-* Responsive Web Design
+* Canva
 * Corporate Branding
 
-**Frontend**
+**Customization**
 
-* HTML5
-* CSS3
-* JavaScript
+* Custom CSS/HTML
 
-**Other Tools**
+**Content Research & Development**
 
-* Canva, Microsoft Photos Editor
+* NotebookLM — used to research and synthesise information from existing company documentation and support the development of structured, optimised website content.
 
 ---
 
@@ -108,14 +106,12 @@ The website was structured around the following core areas:
 Home
 ├── About
 ├── Services
-├── Projects
-├── Capabilities
-├── HSE / Sustainability
-├── News / Updates
+├── Supply Chain
+├── Insights & Footprint
+├── Careers
 └── Contact
 ```
 
-> Adjust this structure to match the actual navigation on the live website.
 
 ---
 
@@ -161,6 +157,18 @@ Responsive layouts ensure that the website remains accessible and usable across 
 
 ---
 
+### B2B Enquiry & Lead Generation
+
+![Fedoz B2B Form](screenshots/service-contact-form.png)
+
+To support the website's B2B objectives, enquiry forms were incorporated across relevant service pages and the main contact page.
+
+This provides prospective clients with a direct pathway to enquire about specific services, helping connect the website's technical service offerings with potential business opportunities.
+
+The approach was designed to make it easier for visitors to move from discovering a service → requesting information → initiating a business conversation.
+
+---
+
 ## Live Website
 
 **[Visit fedoz.net](https://www.fedoz.net)**
@@ -169,19 +177,21 @@ Responsive layouts ensure that the website remains accessible and usable across 
 
 ## Project Role
 
-**Role:** Web Designer & Developer
+**Role:** Web Designer, Content Strategist & Developer
 
 **Responsibilities included:**
 
 * Website planning and information architecture
-* UI/UX design
-* Corporate content structuring
-* Website development
+* UI/UX and visual design
+* Corporate content research and restructuring
+* Website development using Hostinger Website Builder
+* Custom CSS implementation
+* Content optimisation based on existing company documentation
+* Visual asset preparation and image editing
+* Service-page and B2B enquiry-form implementation
 * Responsive optimisation
-* Visual asset preparation
-* Content presentation
 * Website testing and refinement
-* Deployment and ongoing updates
+* Deployment and ongoing content updates
 
 ---
 
@@ -204,7 +214,7 @@ Key considerations included:
 
 This repository serves as a **portfolio and project documentation reference** for the Fedoz Nigeria Limited corporate website.
 
-The live website and brand assets belong to **Fedoz Nigeria Limited**. The repository does not contain confidential information, credentials, proprietary client data or restricted production assets.
+The live website and brand assets belong to **Fedoz Nigeria Limited**. The repository does not contain confidential information, credentials, proprietary client data, or restricted production assets.
 
 ---
 
