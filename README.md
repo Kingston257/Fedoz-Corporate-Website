@@ -78,7 +78,7 @@ The interface uses a clear content hierarchy, structured sections, a visual proj
 
 The website was designed and developed using a combination of no-code, visual design, content research and custom styling tools.
 
-**Website / CMS**
+**Website**
 
 * Hostinger Website Builder
 
